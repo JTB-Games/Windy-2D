@@ -6,5 +6,5 @@ Includes suppport for drawing triangles, rectangles, and circles.
 
 
 ## ROADMAP
-Add image drawing support
-Add audio support.
+- Add image drawing support
+- Add audio support.
